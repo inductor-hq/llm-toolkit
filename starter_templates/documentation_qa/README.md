@@ -80,7 +80,7 @@ See [How to Modify This Template to Run on Your Own Markdown Documents](#how-to-
 
 ## How to Use Inductor to Iterate on, Test, Improve, and Monitor This App
 
-Note: when you run any of the Inductor commands in this section, you will be prompted to log in to Inductor or create an account (for free) if you don't already have one.  Alternatively, if you don't already have an account, you can sign up [here](https://inductor.ai/).
+Note: when you run any of the Inductor commands in this section, you will be prompted to log in to Inductor or create an account (for free) if you don't already have one.  Alternatively, if you don't already have an account, you can sign up [here](https://app.inductor.ai/signup).
 
 1. **Auto-generate a playground UI:**
    ```sh
