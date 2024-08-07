@@ -1,7 +1,7 @@
 # Documentation Question-Answering (Q&A) Bot (RAG-based LLM App)
 
 ## Inductor Open-Source LLM App Starter Templates
-This app is part of the Inductor open-source LLM app starter templates. These templates are designed to help developers quickly build and deploy LLM apps using Inductor. For more information and additional templates, visit the [Inductor LLM Toolkit GitHub repository](https://github.com/inductor-hq/llm-toolkit) and [Inductor blog](https://inductor.ai/blog).
+This app is part of the Inductor open-source LLM app starter templates. These templates are designed to help developers quickly build and deploy LLM apps using Inductor. For more information and additional templates, visit the [Inductor LLM Toolkit GitHub repository](https://github.com/inductor-hq/llm-toolkit) and [Inductor blog](https://inductor.ai/blog/open-sourcing-llm-app-starter-templates).
 
 ## App Overview
 This app answers questions about Markdown documents. It is designed to be simple, easy to use, and easy to customize. To ensure accessibility to developers using various LLM frameworks or none at all, it does not rely on any specific frameworks (such as LlamaIndex or LangChain). However, you can easily adapt the code to incorporate your preferred framework.
