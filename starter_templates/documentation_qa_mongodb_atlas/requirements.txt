@@ -1,0 +1,4 @@
+inductor
+openai==1.37.0
+pydantic==2.8.2
+pymongo==4.8.0
