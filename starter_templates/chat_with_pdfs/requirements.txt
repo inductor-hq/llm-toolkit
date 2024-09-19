@@ -1,0 +1,4 @@
+chromadb==0.5.5
+inductor
+openai==1.37.0
+unstructured[pdf]==0.15.7
