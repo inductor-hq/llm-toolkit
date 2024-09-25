@@ -1,0 +1,3 @@
+inductor
+openai==1.37.0
+SQLAlchemy==2.0.23
